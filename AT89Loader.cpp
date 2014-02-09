@@ -135,7 +135,7 @@ int main(int argc, char **argv)
 		cout<<"   -l              Display information while working"<<endl;
 		cout<<"   -p              Program flash with filename"<<endl;
 		cout<<"   -s              Only display errors"<<endl;
-		cout<<"   -v			     Verify flash against filename"<<endl;
+		cout<<"   -v              Verify flash against filename"<<endl;
 		cout<<"   filename        Path of the ihx or hex file to load"<<endl;
 		cout<<endl;
 		cout<<"Default pin configuration:"<<endl;
