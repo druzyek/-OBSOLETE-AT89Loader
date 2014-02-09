@@ -1,8 +1,8 @@
 AT89Loader v0.1
 
-This utility programs firmware into AT89LP6440 microcontrollers using an FTDI USB to serial
-cable instead of the parallel cable usualy used to program them. It may work on similar
-chips like the AT89LP3240 but it has not been tested. Use it at your own risk.
+This utility programs firmware into AT89LP6440 microcontrollers using an FTDI USB to
+serial cable instead of the parallel cable usualy used to program them. It may work on
+similar chips like the AT89LP3240 but it has not been tested. Use it at your own risk.
 
 The program was compiled with Visual C++ 10. It requires the D2XX header and library files
 available here: http://www.ftdichip.com/Drivers/D2XX.htm
