@@ -124,7 +124,7 @@ int main(int argc, char **argv)
 
 	if (ShowHelp||argc==1)
 	{
-		cout<<"AT89Loader v0.1"<<endl;
+		cout<<"AT89Loader v0.2"<<endl;
 		cout<<"Loads HEX files into AT89LP6440s with an FTDI cable"<<endl;
 		cout<<endl;
 		cout<<"Usage: AT89Loader [options] [filename]"<<endl;
@@ -149,7 +149,7 @@ int main(int argc, char **argv)
 
 	if (LoudMode)
 	{
-		cout<<"AT89Loader v0.1"<<endl;
+		cout<<"AT89Loader v0.2"<<endl;
 		cout<<"Loads HEX files into AT89LP6440s with an FTDI cable"<<endl;
 		cout<<endl;
 	}
