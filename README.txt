@@ -1,5 +1,8 @@
 AT89Loader v0.2
 
+WARNING: FTDI does not recommend using their serial cable in SPI mode. Using this utility
+to do so may not be reliable!
+
 This utility programs firmware into AT89LP6440 microcontrollers using an FTDI USB to
 serial cable instead of the parallel cable usually used to program them. It may work on
 similar chips like the AT89LP3240 but it has not been tested. Use it at your own risk.
